@@ -1,0 +1,43 @@
+_repo: -The-Future-Belongs-to-the-People-_39023
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Weyl, Walter E. (Walter Edward)
+    alias: Weyl, Walter Edward
+    birthdate: 1873
+    deathdate: &id001 1919
+    gutenberg_agent_id: '36235'
+    url: http://www.gutenberg.org/2009/agents/36235
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Weyl
+  translator:
+    agent_name: Zimand, Savel
+    birthdate: 1891
+    deathdate: 1967
+    gutenberg_agent_id: '39797'
+    url: http://www.gutenberg.org/2009/agents/39797
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liebknecht, Karl Paul August Friedrich
+    birthdate: 1871
+    deathdate: *id001
+    gutenberg_agent_id: '39796'
+    url: http://www.gutenberg.org/2009/agents/39796
+    wikipedia: http://en.wikipedia.org/wiki/Karl_Liebknecht
+description: ''
+gutenberg_issued: '2012-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39023'
+  lccn: '18023563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+title: The Future Belongs to the People
+url: http://www.gutenberg.org/ebooks/39023
